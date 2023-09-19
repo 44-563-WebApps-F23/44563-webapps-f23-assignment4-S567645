@@ -1,0 +1,39 @@
+
+
+.speech{
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+color: black;
+}
+.direction{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: small;
+color: black;
+background-color: orange;
+
+}
+
+.Stockmann{
+    font-size: small;
+    color: cadetblue;
+
+}
+
+.peter Stockmann{
+    font-size: small;
+    color:chartreuse;
+}
+    
+
+.Hovstad{
+    font-size: small;
+    color:azure;
+    
+
+}
+
+.direction:hover{
+background-color: dodgerblue;
+color: blueviolet;
+
+}
